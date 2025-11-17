@@ -1,0 +1,14 @@
+Desenvolva uma solução utilizando as seguintes estruturas em Python para a disciplina Dynamic Programming (6,0): 
+- Apresentação da formulação do problema (entrada, saída, objetivo); 
+- Estrutura para ordenação dos dados em dataframe (quick ou merge sort); 
+- Todas funções devem ser criadas com recursão e memoização; 
+- Uso da ideia da mochila para resolver o problema em questão; 
+- Estrutura de saída - apresentação de resultados e relatórios.
+
+Explicar cada função/estrutura criada (2,0). 
+
+Deixar toda estrutura desenvolvida no Github com as devidas informações sobre a solução (2,0). 
+
+
+
+Obs: crie pelo menos 20 diferentes informações para o problema escolhido. Não faça o teste da sua solução para 5 ou 6 informações.
